@@ -9,7 +9,7 @@ const sendWelcomeMail = (email, name) => {
     to: email,
     from: "vivekgoswami7383@gmail.com", // Use the email address or domain you verified above
     subject: "Thanks for joining us",
-    text: `Welcome. We are glad that you join us. Let us know how can we help you`,
+    text: `Welcome. We are glad that you join us. Let us know how can we help you.`,
     //html: '<strong>and easy to do anywhere, even with Node.js</strong>'
   };
 
