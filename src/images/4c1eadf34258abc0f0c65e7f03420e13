@@ -1,0 +1,7 @@
+user : firstname ,lastname, email, phone ,address , password
+books : title , isbn number , price , author , publisher
+
+
+
+
+/logout all
